@@ -1,0 +1,11 @@
+XgBoost:
+  n_estimators: 111
+  max_depth: 5
+  learning_rate: 0.07353984753877335
+  subsample: 0.6694584349603039
+  colsample_bytree: 0.5409519975639019
+  reg_alpha: 9.831847136251156
+  reg_lambda: 2.0863640375260917
+  min_child_weight: 8
+  random_state: 42
+  objective: reg:squarederror

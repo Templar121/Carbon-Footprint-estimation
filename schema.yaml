@@ -1,0 +1,21 @@
+COLUMNS:
+  Body Type: int64
+  Sex: int64
+  Diet: int64
+  How Often Shower: int64
+  Heating Energy Source: int64
+  Transport: int64
+  Social Activity: int64
+  Monthly Grocery Bill: int64
+  Frequency of Traveling by Air: int64
+  Vehicle Monthly Distance Km: int64
+  Waste Bag Size: int64
+  Waste Bag Weekly Count: int64
+  How Long TV PC Daily Hour: int64
+  How Many New Clothes Monthly: int64
+  How Long Internet Daily Hour: int64
+  Energy efficiency: int64
+
+  
+TARGET_COLUMN:
+  CarbonEmission: int64
