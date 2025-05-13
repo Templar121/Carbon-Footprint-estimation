@@ -2,6 +2,7 @@ pandas
 typeguard
 numpy
 scikit-learn
+xgboost
 matplotlib
 python-box==6.0.2
 pyYAML
