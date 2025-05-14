@@ -12,5 +12,5 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
-uvicorn
+gunicorn
 -e .
