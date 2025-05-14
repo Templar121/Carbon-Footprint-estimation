@@ -5,7 +5,14 @@ from CarbonFootprint.pipeline.prediction import PredictionPipeline
 import os
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+CORS(app, resources={
+    r"/*": {
+        "origins": [
+            "http://localhost:5173",
+            "https://carbonfootprintemission.netlify.app"
+        ]
+    }
+})  # Enable CORS for said origins
 
 # Mappings for categorical features
 # encoding_maps = {
