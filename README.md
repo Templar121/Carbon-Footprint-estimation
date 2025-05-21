@@ -1,20 +1,31 @@
 # Carbon Footprint estimation
 
-## WorkFlows
+A FastAPI-based backend for estimating carbon footprints using machine learning. The model is trained using Random Forest and deployed on Render.
+
+## 🌐 Live Demo
+
+Access the deployed application here:
+
+👉 **[Carbon Footprint Estimation API](https://carbon-footprint-estimation.onrender.com)** 
+🌍 Deployed Project: [https://carbonfootprintemission.netlify.app/](https://carbonfootprintemission.netlify.app/)
+
+---
+
+## 🚀 Tech Stack
+
+- **Python 3.10** – Core programming language
+- **FastAPI 0.95.2** – High-performance web framework for building APIs
+- **CatBoost** – Random Forest library for training the ML model
+- **Pandas & NumPy** – Data manipulation and numerical operations
+- **scikit-learn** – Model evaluation and metrics
+- **YAML** – Configuration files (`params.yaml`, `schema.yaml`)
+- **Render** – Cloud platform for deploying the FastAPI application
+
+---
 
 
-1. Update config.yaml
-2. Update schema.yaml
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the app.py
+## 🛠️ Setup Instructions
 
-
-## How to run ?
 ### STEPS:
 
 
