@@ -16,7 +16,7 @@ Access the deployed application here:
 
 - **Python 3.10** – Core programming language
 - **FastAPI 0.95.2** – High-performance web framework for building APIs
-- **CatBoost** – Random Forest library for training the ML model
+- **Random Forest** – Random Forest library for training the ML model
 - **Pandas & NumPy** – Data manipulation and numerical operations
 - **scikit-learn** – Model evaluation and metrics
 - **YAML** – Configuration files (`params.yaml`, `schema.yaml`)
