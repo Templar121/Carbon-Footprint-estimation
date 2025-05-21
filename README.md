@@ -7,6 +7,7 @@ A FastAPI-based backend for estimating carbon footprints using machine learning.
 Access the deployed application here:
 
 👉 **[Carbon Footprint Estimation API](https://carbon-footprint-estimation.onrender.com)** 
+
 🌍 Deployed Project: [https://carbonfootprintemission.netlify.app/](https://carbonfootprintemission.netlify.app/)
 
 ---
