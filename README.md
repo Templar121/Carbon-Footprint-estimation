@@ -33,7 +33,7 @@ Access the deployed application here:
 clone the repository
 
 ```bash
-https://github.com/Templar121/End-to-End-Machine-Learning-Pipeline
+https://github.com/Templar121/Carbon-Footprint-estimation
 ```
 
 ### STEP A - Create a conda environment after opening the repository
